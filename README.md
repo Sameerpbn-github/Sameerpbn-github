@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Sameerpbn-github
-- 👀 I’m interested in ...IT 
-- 🌱 I’m currently learning ...Devops 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👋 Hi, I’m @Shaikhkhaleeln-github
+- 🔭 I'm currently working on Devops technology
+- 🌱 I’m currently learning ...Kubernetes,
+Terraform, AZURE
+- 💬 Ask me about CI/CD, Cloud Infrastructure,
+Automation
+- 📫 How to reach me ...shaikhkhalilpbn39@gmail.com
+- 😄 Pronouns: ...him
 - ⚡ Fun fact: ...
 
 <!---
