@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shaikhkhaleeln-github
+- 👋 Hi, I’m Shaikh Khaleel
 - 🔭 I'm currently working on Devops technology
 - 🌱 I’m currently learning ...Kubernetes,
 Terraform, AZURE
